@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1def0b25-8794-4732-9777-7680c674dd6c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at -60.96 -40.64)
+		(size 29.21 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "253bd0a1-fea3-44c5-b9d4-279cd6447ddd")
+		(property "Sheetname" "Napajeni2"
+			(at -60.96 -41.3516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Napajeni2.kicad_sch"
+			(at -60.96 1.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "proudova_pojistka"
+				(path "/1def0b25-8794-4732-9777-7680c674dd6c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 -59.69)
+		(size 36.83 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c7120e8-0a1b-44ff-b44a-3e329a065c88")
+		(property "Sheetname" "Napajeni"
+			(at 27.94 -60.4016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 27.94 -21.0054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "proudova_pojistka"
+				(path "/1def0b25-8794-4732-9777-7680c674dd6c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
