@@ -1,6 +1,6 @@
 # Elektronická proudová pojistka
 
-Tento projekt představuje návrh a implementaci elektronické proudové pojistky, zadané v rámci cvičení KEZ (pravděpodobně Katedry elektroniky a elektrotechniky) na VUT v Brně. Cílem projektu bylo překreslit dodané schéma zapojení, navrhnout desku plošných spojů (DPS) s využitím softwaru KiCad a připravit projekt k odevzdání.
+Tento projekt představuje návrh a implementaci elektronické proudové pojistky, zadané v rámci cvičení KEZ na VUT FEKT v Brně. Cílem projektu bylo překreslit dodané schéma zapojení, navrhnout desku plošných spojů (DPS) s využitím softwaru KiCad a připravit projekt k odevzdání.
 
 **Hlavní body projektu:**
 
