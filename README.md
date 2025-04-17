@@ -34,6 +34,9 @@ Tento projekt demonstruje mé schopnosti v oblasti:
 * **Řešení technických zadání:** Schopnost splnit zadané požadavky a odevzdat kompletní a funkční výsledek.
 * **Samostatné práce na projektu:** Realizace individuálního projektu od zadání po finální návrh.
 
-**Kontakt:**
+Schéma
+![image](https://github.com/user-attachments/assets/e36651b2-2666-4f82-b5da-c950c836598f)
 
-V případě dotazů k tomuto projektu mě neváhejte kontaktovat.
+PCB
+![image](https://github.com/user-attachments/assets/1802a8dd-4917-44b1-baa8-49b38c7e745d)
+
